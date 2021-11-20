@@ -1,0 +1,16 @@
+# Compiled Lua sources
+luac.out
+
+# LuaCov
+luacov.stats.out
+luacov.report.out
+
+# IntelliJ
+.idea
+
+# SASS cache files
+.sass-cache
+
+# User-specific stuff
+/app/config.lua
+generate-expected-fixtures.lua
